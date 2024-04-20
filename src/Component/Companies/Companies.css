@@ -1,0 +1,23 @@
+.c-container>img{
+    width: 10rem;
+}
+
+.c-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+@media (max-width:1024px) {
+    .c-container{
+        justify-content: center;
+        padding: 1rem;
+    }
+}
+
+
+
+
+ 
+
+
